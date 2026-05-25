@@ -78,7 +78,7 @@ const PAGE_CONTENT = {
           "A scalable company website with clear service funnels, CRM-ready forms, and consistent mobile UX.",
         result: "4.5x% increase in lead generation",
         image: "/images/port.png",
-        link: "https://example.com/project/kini-tech-service-hub",
+        link: "https://dubemdev.me",
       },
     ] as Project[],
   },
@@ -212,13 +212,13 @@ export default function OurWorkPage() {
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label={`Open project: ${project.title}`}
-                className="group flex h-full flex-col overflow-hidden rounded-3xl border border-black/10 bg-white shadow-lg shadow-black/5 transition-all duration-300 hover:-translate-y-2 hover:border-orange-500/65"
+                className="group  flex h-full flex-col overflow-hidden rounded-3xl border border-black/10 bg-white shadow-lg shadow-black/5 transition-all duration-300 hover:-translate-y-2 hover:border-orange-500/65"
               >
                 <div className="relative aspect-16/10 overflow-hidden">
                   <img
                     src={project.image}
                     alt={project.title}
-                    className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                    className="h-full object-fill w-full  transition-transform duration-500 group-hover:scale-105"
                   />
                   <div className="absolute inset-0 bg-linear-to-t from-black/65 via-black/20 to-transparent" />
                   <span className="absolute left-4 top-4 rounded-full border border-black/10 bg-white/90 px-3 py-1 text-xs font-semibold uppercase tracking-[0.12em] text-black">
