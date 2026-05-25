@@ -257,7 +257,6 @@ export default function PricingPage() {
       </section>
       {/* ========== CUSTOM PRICING CTA ========== */}
       {/* For projects that don't fit the standard packages - edit the heading/text here */}
-      \n{" "}
       <section className="bg-white px-6 py-14 text-black md:px-12 md:py-18 lg:px-24">
         <div className="mx-auto max-w-5xl text-center">
           <h2 className="text-3xl font-bold md:text-5xl">
