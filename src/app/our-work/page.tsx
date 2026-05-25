@@ -26,7 +26,7 @@ const PAGE_CONTENT = {
       title: "Few of my works",
       description:
         "My project showcase where I showcase my best work, clean UI direction, responsive layouts, and full-stack implementation quality.",
-      video: "/videos/vid.mp4",
+        video: "/videos/Vid.mp4",
     },
   },
   caseStudies: {
@@ -40,7 +40,7 @@ const PAGE_CONTENT = {
         summary:
           "This is an Excellent portfolio piece,it`s polished,functionally dense,and demonstrates a high level of 'product engineering'the ability to not just write code,but to build a cohesive,user centric product..",
         result: "100% increase in user engagement",
-        image: "/images/ember-and-ash.png",
+        image: "/images/Ember-and-Ash.png",
         link: "https://ember-and-ash-three.vercel.app/",
       },
       {
