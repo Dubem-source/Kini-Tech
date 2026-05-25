@@ -76,8 +76,8 @@ const PAGE_CONTENT = {
         category: "Business Platform",
         summary:
           "A scalable company website with clear service funnels, CRM-ready forms, and consistent mobile UX.",
-        result: "47% longer average session time",
-        image: "/images/img3.png",
+        result: "4.5x% increase in lead generation",
+        image: "/images/port.png",
         link: "https://example.com/project/kini-tech-service-hub",
       },
     ] as Project[],
