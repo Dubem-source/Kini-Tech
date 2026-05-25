@@ -128,7 +128,7 @@ export default function AboutPage() {
                   <div className="bg-white p-3 pb-10 rounded-sm shadow-2xl">
                     <div className="overflow-hidden h-44 w-34 sm:h-49.5 sm:w-39 md:h-55 md:w-43.5">
                       <img
-                        src="/images/self.jpeg"
+                        src="/images/self2.jpeg"
                         alt="Dubem mirror selfie"
                         className="w-full h-full object-cover"
                       />

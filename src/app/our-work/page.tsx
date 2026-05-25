@@ -26,7 +26,7 @@ const PAGE_CONTENT = {
       title: "Few of my works",
       description:
         "My project showcase where I showcase my best work, clean UI direction, responsive layouts, and full-stack implementation quality.",
-        video: "/videos/Vid.mp4",
+      video: "/videos/Vid.mp4",
     },
   },
   caseStudies: {
