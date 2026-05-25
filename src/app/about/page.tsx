@@ -105,7 +105,7 @@ export default function AboutPage() {
             <div className="mt-8 flex justify-center px-3 md:mt-10 md:px-8">
               <div className="group relative h-71.5 w-62.5 sm:h-75 sm:w-75 md:h-80 md:w-90">
                 <div className="absolute left-1/2 z-10 translate-x-[-64%] translate-y-0.5 -rotate-6 cursor-pointer transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] sm:z-10 sm:-rotate-6 sm:-translate-x-22 sm:translate-y-2 md:-translate-x-20 group-hover:-rotate-8 group-hover:translate-x-[-66%] group-hover:scale-105 sm:group-hover:-rotate-10 sm:group-hover:-translate-x-26 md:group-hover:-rotate-12 md:group-hover:-translate-x-28 drop-shadow-[0_20px_40px_rgba(0,0,0,0.25)] hover:drop-shadow-[0_30px_60px_rgba(0,0,0,0.35)] w-40 sm:w-45 md:w-50">
-                  <div className="bg-white p-3 pb-10 rounded-sm shadow-2xl">
+                  <div className="bg-black/60 p-3 pb-10 rounded-sm shadow-2xl border border-white/10">
                     <div className="overflow-hidden h-44 w-34 sm:h-49.5 sm:w-39 md:h-55 md:w-43.5">
                       <img
                         src="/images/Dubem.jpeg"
@@ -115,7 +115,7 @@ export default function AboutPage() {
                     </div>
                     <div className="mt-2 flex items-center justify-center">
                       <span
-                        className="text-gray-500 text-xs tracking-wide"
+                        className="text-white/80 text-xs tracking-wide"
                         style={{ fontFamily: "'Caveat', cursive" }}
                       >
                         @codeWithDubem
@@ -125,17 +125,17 @@ export default function AboutPage() {
                 </div>
 
                 <div className="absolute left-1/2 z-20 translate-x-[-38%] translate-y-2.5 rotate-3 cursor-pointer transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] delay-50 sm:z-20 sm:translate-x-8 md:translate-x-20 group-hover:rotate-4 group-hover:translate-x-[-62%] group-hover:scale-105 sm:group-hover:rotate-5 sm:group-hover:translate-x-14 md:group-hover:rotate-6 md:group-hover:translate-x-28 drop-shadow-[0_20px_40px_rgba(0,0,0,0.25)] hover:drop-shadow-[0_30px_60px_rgba(0,0,0,0.35)] w-40 sm:w-45 md:w-50">
-                  <div className="bg-white p-3 pb-10 rounded-sm shadow-2xl">
+                  <div className="bg-black/60 p-3 pb-10 rounded-sm shadow-2xl border border-white/10">
                     <div className="overflow-hidden h-44 w-34 sm:h-49.5 sm:w-39 md:h-55 md:w-43.5">
                       <img
-                        src="/images/self2.jpeg"
+                        src="/images/self3.jpeg"
                         alt="Dubem mirror selfie"
                         className="w-full h-full object-cover"
                       />
                     </div>
                     <div className="mt-2 flex items-center justify-center">
                       <span
-                        className="text-gray-500 text-xs tracking-wide"
+                        className="text-white/80 text-xs tracking-wide"
                         style={{ fontFamily: "'Caveat', cursive" }}
                       >
                         @codeWithDubem
